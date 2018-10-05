@@ -1,0 +1,3 @@
+# data container for dev mode
+# git does not commit empty directories (after clone its empty first)
+# so this file has a large and true meaning
